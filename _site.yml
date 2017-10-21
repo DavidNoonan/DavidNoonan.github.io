@@ -1,0 +1,11 @@
+name: "David's Website"
+output_dir: "."
+navbar:
+  title: "David's Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
+    - text: "Solar Energy Forecasting Project"
+      href: ForecastingSolar.html

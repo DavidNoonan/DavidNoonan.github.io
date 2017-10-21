@@ -1,0 +1,5 @@
+---
+title: "About Me"
+---
+
+I'm an aspiring data person. I received my master's in statistics in 2017.
